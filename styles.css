@@ -1,0 +1,43 @@
+.container {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+}
+
+body {
+  background-color: palevioletred;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  text-shadow: 2px 0 #232931;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 10%;
+}
+
+button{
+  background-color: #4ECCA3;
+  border: 10px white;
+  border-radius: 15px;
+  width: 10%;
+  box-shadow: #232931;
+}
+button:hover{
+  background-color: white ;
+}
